@@ -12,11 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/110320717/227760101-9c2f05a7-88d1-4812-bb0c-cbed835eb0b4.png)
 
-
-
-
-
-The goal of this research is to analyze SpaceX Falcon 9 data collected through various  sources and employ Machine Learning models to predict the success of first stage landing  that provides other space agencies the ability to decide if they bid against SpaceX.
+The goal of this research is to analyze SpaceX Falcon 9 data collected through various sources and employ Machine Learning models to predict the success of first stage landing  that provides other space agencies the ability to decide if they bid against SpaceX.
 
 ## Summary of methodologies
 
